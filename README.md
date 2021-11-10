@@ -4,7 +4,7 @@
 
 ## I'm a 15 years old javascript Developer!!
 
-- 🔭 I’m currently working on my discord bot
+- 🔭 I’m currently working on my music discord bot
 - 🌱 I’m currently learning python and react
 - 👯 I’m looking to collaborate with some dev
 - 🤔 I’m looking for help with java
