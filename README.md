@@ -69,5 +69,5 @@
 [twitter]: https://twitter.com/scripteur78
 [twitch]: https://www.twitch.tv/shadowforce78
 [youtube]: https://www.youtube.com/channel/UCN2gF33fBTZG2ptiV2TGO0g
-[instagram]: https://www.instagram.com/scriptor.js
+[instagram]: https://www.instagram.com/scriptor.js/
 [reddit]: https://www.reddit.com/user/scritpeur78
