@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with some dev
 - 🤔 I’m looking for help with java
 - 💬 Ask me about everything
-- 📫 How to reach me: discord : ☆ scriptor.js ☆#7594
+- 📫 How to reach me: discord : scriptor.js#6062
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I recently spend more than 20 hours to listen ONE song
 ### Connect with me:
