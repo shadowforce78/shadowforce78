@@ -6,7 +6,7 @@ npm install friends
 
 <img src="https://komarev.com/ghpvc/?username=shadowforce78&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shadowforce78" alt="Profile Stars"></a>
-<img src="https://discord.com/api/guilds/956868103101349898/widget.png?style=shield" alt="server.png">
+<img src="https://discord.com/api/guilds/822549362307366932/widget.png?style=shield" alt="server.png">
 
 
 ✔️・**Latest project [Master Royal](https://github.com/shadowforce78/MasterRoyale)**
