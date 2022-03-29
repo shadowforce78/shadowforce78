@@ -17,4 +17,13 @@ npm install friends
 
 <a href="http://scriptorcode.7m.pl" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/918916801994309752.png"/></a>
 
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/channel/UCN2gF33fBTZG2ptiV2TGO0g)
+
 ![Snake animation](https://github.com/shadowforce78/shadowforce78/blob/output/github-contribution-grid-snake.svg)
