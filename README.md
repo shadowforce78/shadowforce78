@@ -2,7 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4322F7&background=3000FF08&center=true&vCenter=true&lines=Scriptors'+Github;Sub+to+ScriptorJS+on+youtube)]
-
+(http://scriptorcode.7m.pl)
 
 ```js
 npm install friends
