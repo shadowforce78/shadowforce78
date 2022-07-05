@@ -1,6 +1,8 @@
 <!-- <a href="http://scriptorcode.7m.pl" target="_blank"> <img src="https://media.discordapp.net/attachments/919237621429985360/956935192067575848/unknown.png" alt="Rdimo's Github"/></a> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=E4B2FF57&center=true&vCenter=true&lines=Scriptor's+GitHub)](https://git.io/typing-svg)
+<p align="center">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4322F7&background=3000FF08&center=true&vCenter=true&lines=Scriptors'+Github;Sub+to+ScriptorJS+on+youtube)](https://git.io/typing-svg)
+</p>
 
 ```js
 npm install friends
