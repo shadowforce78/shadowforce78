@@ -14,8 +14,9 @@ npm install friends
 ✔️・**Latest project [Scriptor Pad](https://github.com/shadowforce78/ScriptorPad)**
 
 📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/mc7GyCMhyV)**
-</a><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" />
-<img align="right" src="[https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" ](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shadowforce78&layout=compact&langs_count=8&theme=react&locale=fr)/></p>
+</a>
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" />
+<img align="right" src="[https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo"/> ](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shadowforce78&layout=compact&langs_count=8&theme=react&locale=fr)/></p>
 🌐・**Website: [ScriptorCode](http://scriptorcode.7m.pl)**
 
 <a href="http://scriptorcode.7m.pl" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/918916801994309752.png"/></a>
