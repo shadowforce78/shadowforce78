@@ -16,7 +16,7 @@ npm install friends
 📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/mc7GyCMhyV)**
 </a>
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" />
-<img align="right" src="[https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" />
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" />
 </p>
 🌐・**Website: [ScriptorCode](http://scriptorcode.7m.pl)**
 
