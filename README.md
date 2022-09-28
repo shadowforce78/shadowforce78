@@ -11,9 +11,9 @@ npm install friends
 <img src="https://discord.com/api/guilds/822549362307366932/widget.png?style=shield" alt="server.png">
 
 
-✔️・**Latest project [Scriptor Pad](https://github.com/shadowforce78/ScriptorPad)**
+✔️・**Latest project [Nitro Generator](https://github.com/shadowforce78/NitroGenerator)**
 
-📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/mc7GyCMhyV)**
+📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/cgfr)**
 </a>
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" />
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shadowforce78&layout=compact&langs_count=8&theme=react&locale=fr" alt="rdimo" />
