@@ -26,13 +26,8 @@ npm install friends
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to make a backup of your discord server](https://www.youtube.com/watch?v=-S9M8xKMxgo)
-- [AFK mining bloxcrusher](https://www.youtube.com/watch?v=6d3SUNK2NtY)
-- [SHOWCASING new osu!ftw editor replay by me](https://www.youtube.com/watch?v=AvNS35TO9Ts)
-- [How to get robtop coin in geometry dash](https://www.youtube.com/watch?v=rVER9x8TqrI)
-- [FREE EXPLOIT COBRAX MADE BY ME !!](https://www.youtube.com/watch?v=Gcx2asJWaBk)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/channel/UCN2gF33fBTZG2ptiV2TGO0g)
+➡️ [more videos...](https://youtube.com/channel/UC9_lr6no25flKxWrFyEkOgQ)
 
 ![Snake animation](https://github.com/shadowforce78/shadowforce78/blob/output/github-contribution-grid-snake.svg)
