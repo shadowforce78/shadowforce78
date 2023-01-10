@@ -22,4 +22,6 @@ npm install friends
 
 <a href="http://scriptorcode.7m.pl" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/918916801994309752.png"/></a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Snake animation](https://github.com/shadowforce78/shadowforce78/blob/output/github-contribution-grid-snake.svg)
