@@ -11,7 +11,7 @@ npm install friends
 <img src="https://discord.com/api/guilds/1014108456141197322/widget.png?style=shield" alt="server.png">
 
 
-✔️・**Latest project [Nitro Generator](https://github.com/shadowforce78/NitroGenerator)**
+✔️・**Latest project [djs base handler v13](https://github.com/shadowforce78/djs-base-handler)**
 
 📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/cgfr)**
 </a>
