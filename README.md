@@ -11,7 +11,7 @@ npm install friends
 <img src="https://discord.com/api/guilds/1014108456141197322/widget.png?style=shield" alt="server.png">
 
 
-✔️・**Latest project [WebbHook Sender](https://github.com/shadowforce78/WebHook-sender)**
+✔️・**Latest project [Rocket League Bot](https://github.com/shadowforce78/rlgym_quickstart_tutorial_bot)**
 
 📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/qQkJByh5Ef)**
 </a>
