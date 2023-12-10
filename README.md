@@ -17,7 +17,7 @@ npm install friends
 </a>
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" />
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shadowforce78&layout=compact&langs_count=8&theme=react&locale=fr" alt="rdimo" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?usernameshadowforce78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 🌐・**Website: [ScriptorCode](https://scriptorcode.vercel.app/)**</p>
 
