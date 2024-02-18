@@ -11,7 +11,7 @@ npm install friends
 <img src="https://discord.com/api/guilds/1014108456141197322/widget.png?style=shield" alt="server.png">
 
 
-✔️・**Latest project [GD Mod](https://github.com/shadowforce78/GDmod)**
+✔️・**Latest project [GD Mod](https://github.com/shadowforce78/ProgressBarPlace)**
 
 📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/qQkJByh5Ef)**
 </a>
