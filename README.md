@@ -1,27 +1,42 @@
-<!-- <a href="http://scriptorcode.7m.pl" target="_blank"> <img src="https://media.discordapp.net/attachments/919237621429985360/956935192067575848/unknown.png" alt="Rdimo's Github"/></a> -->
+<!-- Profile and Intro -->
+<div align="center">
+  <a href="http://scriptorcode.7m.pl" target="_blank">
+    <img src="https://media.discordapp.net/attachments/919237621429985360/956935192067575848/unknown.png" alt="Scriptor's GitHub"/>
+  </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4322F7&background=3000FF08&center=true&vCenter=true&lines=Scriptors'+Github;Sub+to+ScriptorJS+on+youtube)](https://Scriptorcode.7m.pl)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4322F7&background=3000FF08&center=true&vCenter=true&lines=Scriptors'+Github;Sub+to+ScriptorJS+on+youtube)](https://Scriptorcode.7m.pl)
 
-```js
-npm install friends
-```
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=shadowforce78&label=Profile%20Views&color=008042&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shadowforce78" alt="Total Stars"/>
 
-<img src="https://komarev.com/ghpvc/?username=shadowforce78&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shadowforce78" alt="ProfileStars"></a>
-<img src="https://discord.com/api/guilds/1014108456141197322/widget.png?style=shield" alt="server.png">
+</div>
 
-✔️・**Latest project [UVSQ BOT DISCORD](https://github.com/shadowforce78/UVSQ-Bot-Discord)**
+---
 
-📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/qQkJByh5Ef)**
-</a>
-<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="rdimo" />
-<img align="right" src="https://wakatime.com/share/@018d3bab-5dac-49bc-80e8-8b1c6026d3fd/0ecc9eb9-7d9b-4daf-a0a9-e62dc9116494.svg" alt="rdimo" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=shadowforce78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 👨‍💻 Latest Project
+✔️ **[UVSQ BOT DISCORD](https://github.com/shadowforce78/UVSQ-Bot-Discord)**
 
-🌐・**Website: [ScriptorCode](https://scriptorcode.vercel.app/)**</p>
+## 📩 Reach Me
+**Discord:** `SaumonDeLuxe#2960`  
+Join my [Discord server](https://discord.gg/qQkJByh5Ef)
 
-<a href="http://scriptorcode.7m.pl" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/918916801994309752.png"/></a>
+---
 
+## 💻 Stats
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="GitHub Stats" />
+<img align="right" src="https://wakatime.com/share/@018d3bab-5dac-49bc-80e8-8b1c6026d3fd/0ecc9eb9-7d9b-4daf-a0a9-e62dc9116494.svg" alt="Coding Activity"/>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadowforce78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌐 Website
+Visit my website: [ScriptorCode](https://scriptorcode.vercel.app/)
+
+---
+
+<!-- Snake animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadowforce78/shadowforce78/output/silly-contribution-snake-dark.svg" />
@@ -29,3 +44,16 @@ npm install friends
     <img alt="Silly contribution snake animation" src="github-snake.svg" />
   </picture>
 </div>
+
+---
+
+<!-- Install Friends -->
+## 🛠 Installation
+```bash
+npm install friends
+```
+
+### Extra Resources:
+<a href="http://scriptorcode.7m.pl" target="_blank">
+  <img src="https://discord.c99.nl/widget/theme-1/918916801994309752.png" alt="Discord Profile"/>
+</a>
