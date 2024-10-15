@@ -10,7 +10,7 @@ npm install friends
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shadowforce78" alt="ProfileStars"></a>
 <img src="https://discord.com/api/guilds/1014108456141197322/widget.png?style=shield" alt="server.png">
 
-✔️・**Latest project [Rainbow Icon Mod](https://github.com/shadowforce78/RainBowIcon2.0)**
+✔️・**Latest project [UVSQ BOT DISCORD](https://github.com/shadowforce78/UVSQ-Bot-Discord)**
 
 📩・**Want to reach? Add `SaumonDeLuxe#2960` on [discord](https://discord.gg/qQkJByh5Ef)**
 </a>
