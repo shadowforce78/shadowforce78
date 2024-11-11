@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 Latest Project
-✔️ **[UVSQ BOT DISCORD](https://github.com/shadowforce78/UVSQ-Bot-Discord)**
+✔️ **[Password Manager](https://github.com/shadowforce78/SecretSave)**
 
 ## 📩 Reach Me
 **Discord:** `SaumonDeLuxe#2960`  
