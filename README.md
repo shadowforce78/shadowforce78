@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 Latest Project
-✔️ **[Password Manager](https://github.com/shadowforce78/SecretSave)**
+✔️ **[UVSQ Online Manager](https://github.com/shadowforce78/WebUVSQExpress)**
 
 ## 📩 Reach Me
 **Discord:** `SaumonDeLuxe#2960`  
