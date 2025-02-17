@@ -25,7 +25,7 @@ Join my [Discord server](https://discord.gg/qQkJByh5Ef)
 ---
 
 ## 🌐 Website
-Visit my website: [ScriptorCode](https://scriptorcode.vercel.app/)
+Visit my website: [SaumonDeLuxe](https://saumondeluxe.com/)
 
 ---
 
