@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 Latest Project
-✔️ **[UVSQ Online Manager](https://github.com/shadowforce78/WebUVSQExpress)**
+✔️ **[LLM AI](https://github.com/shadowforce78/LLM-AI)**
 
 ## 📩 Reach Me
 **Discord:** `SaumonDeLuxe#2960`  
