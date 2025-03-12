@@ -20,7 +20,7 @@ Join my [Discord server](https://discord.gg/qQkJByh5Ef)
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadowforce78&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="GitHub Stats" />
 <img align="right" src="https://wakatime.com/share/@018d3bab-5dac-49bc-80e8-8b1c6026d3fd/0ecc9eb9-7d9b-4daf-a0a9-e62dc9116494.svg" alt="Coding Activity"/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadowforce78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadowforce78&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
