@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 Latest Project
-✔️ **[LLM AI](https://github.com/shadowforce78/LLM-AI)**
+✔️ **[JavaScipt Libs](https://github.com/shadowforce78/lib.saumondeluxe.com)**
 
 ## 📩 Reach Me
 **Discord:** `SaumonDeLuxe#2960`  
