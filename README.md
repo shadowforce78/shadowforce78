@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=shadowforce78&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shadowforce78&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowforce78&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowforce78&layout=compact&hide_border=true&theme=transparent)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shadowforce78&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
@@ -54,5 +55,6 @@ Visit my website: [SaumonDeLuxe](https://saumondeluxe.com/)
 
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/levraisaumondeluxe) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saumondeluxe) 
+
 
 
