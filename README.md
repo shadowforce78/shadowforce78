@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a ton of projects a the same time<br>👯 I’m looking to collaborate on everything<br>⚡ Fun fact on time, there was no chatGPT...
+🔭 I’m currently working on a ton of projects a the same time<br>👯 I’m looking to collaborate on everything
 
 
 ## 🌐 Socials:
@@ -55,6 +55,7 @@ Visit my website: [SaumonDeLuxe](https://saumondeluxe.com/)
 
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/levraisaumondeluxe) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saumondeluxe) 
+
 
 
 
