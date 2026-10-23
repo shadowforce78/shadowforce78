@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=Adam%20Planque&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=aka%20shadowforce78%20%7C%20SaumonDeLuxe&descAlignY=58&descSize=20" alt="header" />
 
 <a href="https://github.com/shadowforce78">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Développeur+passionné+%F0%9F%9A%80;Des+tonnes+de+projets+en+même+temps+%F0%9F%94%A5;Toujours+partant+pour+collaborer+%F0%9F%A4%9D;C%2C+C%23%2C+Go%2C+Python%2C+JS%2C+et+plus+encore..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=D%C3%A9veloppeur+passionn%C3%A9+%F0%9F%9A%80;Des+tonnes+de+projets+en+m%C3%AAme+temps+%F0%9F%94%A5;Toujours+partant+pour+collaborer+%F0%9F%A4%9D;C%2C+C%23%2C+Go%2C+Python%2C+JS%2C+et+plus+encore..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -64,10 +64,10 @@ const shadowforce78 = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shadowforce78&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowforce78&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=shadowforce78&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shadowforce78&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=shadowforce78&theme=radical&hide_border=true&background=0d1117" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=shadowforce78&theme=radical&hide_border=true&background=0d1117" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowforce78&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" alt="activity graph" />
 
@@ -78,7 +78,7 @@ const shadowforce78 = {
 ## 🏆 Trophées
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shadowforce78&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=shadowforce78&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
 </div>
 
 <br/>
