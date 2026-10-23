@@ -69,8 +69,6 @@ const shadowforce78 = {
 
 <img src="https://streak-stats.demolab.com/?user=shadowforce78&theme=radical&hide_border=true&background=0d1117" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowforce78&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" alt="activity graph" />
-
 </div>
 
 <br/>
